@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1524161044 source:f:\computer e\3rd year computer\term 2\new\data compression\code\adaptive huffman\main.cpp
+	<iostream>
+	"Tree.h"
+
+1524431657 f:\computer e\3rd year computer\term 2\new\data compression\code\adaptive huffman\include\tree.h
+	<iostream>
+
+1524433134 source:f:\computer e\3rd year computer\term 2\new\data compression\code\adaptive huffman\src\tree.cpp
+	"Tree.h"
+	<queue>
+
+1524337738 source:d:\3rd year ce\2nd term\data compression\coding\adaptive huffman\main.cpp
+	<iostream>
+	"Tree.h"
+	<cmath>
+
+1524161265 d:\3rd year ce\2nd term\data compression\coding\adaptive huffman\include\tree.h
+	<iostream>
+
+1524322900 source:d:\3rd year ce\2nd term\data compression\coding\adaptive huffman\src\tree.cpp
+	"Tree.h"
+	<queue>
+
+1524495634 source:c:\users\moham\desktop\adaptive huffman\main.cpp
+	<iostream>
+	"Tree.h"
+	<map>
+	<cmath>
+
+1524431657 c:\users\moham\desktop\adaptive huffman\include\tree.h
+	<iostream>
+
+1524433134 source:c:\users\moham\desktop\adaptive huffman\src\tree.cpp
+	"Tree.h"
+	<queue>
+
